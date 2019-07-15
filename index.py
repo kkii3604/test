@@ -65,4 +65,4 @@ await client.send_message(message.channel, 'Done sleeping')
 
 
 
-client.run('token')
+client.run('ZjiUWA5TSLJzfozbrCkEXGbdUDYUHDMQ')
